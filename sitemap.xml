@@ -1,773 +1,848 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nebenprojekte.github.io/aviso-legal.html</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>0.3</priority>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/datenschutz.html</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>0.3</priority>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/impressum.html</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>0.3</priority>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/imprint.html</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>0.3</priority>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://nebenprojekte.github.io/</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>1.0</priority>
+    <loc>https://nebenprojekte.github.io/index.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/privacidad.html</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>0.3</priority>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/privacy.html</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://nebenprojekte.github.io/LeichtErklaert/</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>0.9</priority>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/biologie/bakterien.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/biologie/chloroplasten.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/biologie/chromosomen.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/biologie/dna.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/biologie/evolutionstheorie.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/biologie/fluss.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/biologie/fotosynthese.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/biologie/mitochondrien.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/biologie/nervenzelle.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/biologie/oekosystem.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/biologie/stammzellen.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/biologie/viren.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/biologie/waldoekosystem.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/biologie/warum-zwei-geschlechter.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/biologie/zellatmung.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/chemie/aggregatzustaende.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/chemie/anomalie-des-wassers.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/chemie/radioaktivitaet.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://nebenprojekte.github.io/LeichtErklaert/en/</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/biologie/bakterien.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/biologie/chloroplasten.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/biologie/chromosomen.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/biologie/dna.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/biologie/evolutionstheorie.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/biologie/fluss.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/biologie/fotosynthese.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/biologie/mitochondrien.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/biologie/nervenzelle.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/biologie/oekosystem.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/biologie/stammzellen.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/biologie/viren.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/biologie/waldoekosystem.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/biologie/warum-zwei-geschlechter.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/biologie/zellatmung.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/chemie/aggregatzustaende.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/chemie/anomalie-des-wassers.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/chemie/radioaktivitaet.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/geschichte/alexander-der-grosse.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/geschichte/erster-weltkrieg.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/geschichte/franzoesische-revolution.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/geschichte/roemisches-reich.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/geschichte/rom-gegen-karthago.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/geschichte/spanischer-kolonialismus.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/geschichte/steinzeit.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/geschichte/zweiter-weltkrieg.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/en/index.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/mathematik/binomische-formeln.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/mathematik/brueche.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/mathematik/drei-tueren-problem.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/mathematik/exponentielles-wachstum.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/mathematik/flaechen-und-volumenformeln.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/mathematik/geburtstagsparadoxon.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/mathematik/kartenspiel-wahrscheinlichkeit.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/mathematik/primzahlen.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/mathematik/prozentrechnung.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/mathematik/satz-des-pythagoras.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/mathematik/trigonometrie.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/physik/ebbe-und-flut.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/physik/energieerhaltungssatz.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/physik/erde-ist-eine-kugel.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/physik/fallgeschwindigkeit.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/physik/gravitation-abschuss.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/physik/hebelwirkung.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/physik/masse-und-dichte.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/physik/schroedingers-katze.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/physik/volt-ampere-watt.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/physik/wasserverdraengung.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/en/physik/zentripetalkraft-zentrifugalkraft.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://nebenprojekte.github.io/LeichtErklaert/es/</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>0.9</priority>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/en/sporttheorie/beweglichkeit.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/en/sporttheorie/explosivkraft.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/en/sporttheorie/hypertrophie.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/en/sporttheorie/kraftausdauer.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/en/sporttheorie/maximalkraft.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/biologie/bakterien.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/biologie/chloroplasten.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/biologie/chromosomen.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/biologie/dna.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/biologie/evolutionstheorie.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/biologie/fluss.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/biologie/fotosynthese.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/biologie/mitochondrien.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/biologie/nervenzelle.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/biologie/oekosystem.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/biologie/stammzellen.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/biologie/viren.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/biologie/waldoekosystem.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/biologie/warum-zwei-geschlechter.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/biologie/zellatmung.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/chemie/aggregatzustaende.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/chemie/anomalie-des-wassers.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/chemie/radioaktivitaet.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/geschichte/alexander-der-grosse.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/geschichte/erster-weltkrieg.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/geschichte/franzoesische-revolution.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/geschichte/roemisches-reich.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/geschichte/rom-gegen-karthago.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/geschichte/spanischer-kolonialismus.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/geschichte/steinzeit.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/geschichte/zweiter-weltkrieg.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/es/index.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/mathematik/binomische-formeln.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/mathematik/brueche.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/mathematik/drei-tueren-problem.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/mathematik/exponentielles-wachstum.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/mathematik/flaechen-und-volumenformeln.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/mathematik/geburtstagsparadoxon.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/mathematik/kartenspiel-wahrscheinlichkeit.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/mathematik/primzahlen.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/mathematik/prozentrechnung.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/mathematik/satz-des-pythagoras.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/mathematik/trigonometrie.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/physik/ebbe-und-flut.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/physik/energieerhaltungssatz.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/physik/erde-ist-eine-kugel.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/physik/fallgeschwindigkeit.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/physik/gravitation-abschuss.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/physik/hebelwirkung.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/physik/masse-und-dichte.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/physik/schroedingers-katze.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/physik/volt-ampere-watt.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/physik/wasserverdraengung.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/es/physik/zentripetalkraft-zentrifugalkraft.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/es/sporttheorie/beweglichkeit.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/es/sporttheorie/explosivkraft.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/es/sporttheorie/hypertrophie.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/es/sporttheorie/kraftausdauer.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/es/sporttheorie/maximalkraft.html</loc>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/geschichte/alexander-der-grosse.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/geschichte/erster-weltkrieg.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/geschichte/franzoesische-revolution.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/geschichte/roemisches-reich.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/geschichte/rom-gegen-karthago.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/geschichte/spanischer-kolonialismus.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/geschichte/steinzeit.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/geschichte/zweiter-weltkrieg.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/index.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/mathematik/binomische-formeln.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/mathematik/brueche.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/mathematik/drei-tueren-problem.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/mathematik/exponentielles-wachstum.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/mathematik/flaechen-und-volumenformeln.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/mathematik/geburtstagsparadoxon.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/mathematik/kartenspiel-wahrscheinlichkeit.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/mathematik/primzahlen.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/mathematik/prozentrechnung.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/mathematik/satz-des-pythagoras.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/mathematik/trigonometrie.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/physik/ebbe-und-flut.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/physik/energieerhaltungssatz.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/physik/erde-ist-eine-kugel.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/physik/fallgeschwindigkeit.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/physik/gravitation-abschuss.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/physik/hebelwirkung.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/physik/masse-und-dichte.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/physik/schroedingers-katze.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/physik/volt-ampere-watt.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/physik/wasserverdraengung.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nebenprojekte.github.io/LeichtErklaert/physik/zentripetalkraft-zentrifugalkraft.html</loc>
-    <lastmod>2026-08-12</lastmod>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/sporttheorie/beweglichkeit.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/sporttheorie/explosivkraft.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/sporttheorie/hypertrophie.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/sporttheorie/kraftausdauer.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nebenprojekte.github.io/LeichtErklaert/sporttheorie/maximalkraft.html</loc>
+    <lastmod>2026-08-14</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>
