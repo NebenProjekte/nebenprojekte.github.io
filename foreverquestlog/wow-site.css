@@ -145,3 +145,43 @@ h1,h2,h3{font-family:var(--disp)}
 footer{background:#0a0705;border-top:2px solid #3b2d18}
 .orow{grid-template-columns:104px 38px minmax(0,230px) 46px minmax(0,1fr)}
 @media (max-width:700px){.orow{grid-template-columns:38px minmax(0,1fr) 40px}}
+
+/* PvE / PvP */
+.mtabs{display:flex;gap:6px;margin-top:16px;border-bottom:2px solid #5a4526;flex-wrap:wrap}
+.mtabs a{display:flex;flex-direction:column;align-items:center;min-width:110px;padding:8px 18px 7px;text-decoration:none;border:1px solid #5a4526;border-bottom:0;border-radius:8px 8px 0 0;
+  background:linear-gradient(180deg,#3a2b18,#1c140b);color:#e0cfa6;margin-bottom:-2px}
+.mtabs a b{font-family:var(--disp);font-size:16px;letter-spacing:.08em}.mtabs a small{font-size:11px;color:var(--mut);letter-spacing:.06em}
+.mtabs a:hover{color:var(--wy);border-color:#b7832a}
+.mtabs a[aria-current="page"]{background:linear-gradient(180deg,#6e1a10,#3a0c06);color:var(--wy);border-color:#e0b450;box-shadow:0 -4px 12px rgba(255,190,80,.2)}
+.mtabs+.calc{margin-top:0}
+.srcl{font-size:12.5px;color:var(--mut);margin:6px 0 0}
+.gear{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:10px}
+.gi{display:flex;gap:12px;align-items:flex-start;padding:10px 12px;border-radius:7px;background:linear-gradient(180deg,rgba(14,16,40,.96),rgba(6,7,22,.96));
+  border:2px solid #4a4a58;box-shadow:0 0 0 1px #000,inset 0 0 0 1px #2a2c48;min-width:0}
+.gx{min-width:0;flex:1}
+.iic{position:relative;display:inline-block;width:46px;height:46px;flex:none;border-radius:5px;cursor:pointer;
+  box-shadow:0 0 0 1px #000,0 0 0 3px var(--q),0 0 0 4px #000,0 0 10px color-mix(in srgb,var(--q) 45%,transparent)}
+.iic img{width:100%;height:100%;border-radius:4px;display:block}
+.iic.sm{width:28px;height:28px;box-shadow:0 0 0 1px #000,0 0 0 2px var(--q),0 0 0 3px #000}
+.gs{font:700 11px var(--txt);letter-spacing:.12em;text-transform:uppercase;color:var(--mut);display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.gn{font-family:Corm,Georgia,serif;font-weight:700;font-size:19px;line-height:1.1;margin-top:2px}
+.gst{font-size:13px;color:#fff;margin-top:3px}
+.gsrc{font-size:12.5px;color:var(--wy);margin-top:3px;opacity:.9}
+.galt{display:flex;align-items:center;gap:9px;margin-top:8px}.galt span{font:700 10.5px var(--txt);letter-spacing:.12em;text-transform:uppercase;color:var(--mut)}
+.tag{font:700 9.5px var(--txt);letter-spacing:.08em;padding:1px 6px;border-radius:3px;border:1px solid}
+.t-daten{color:#ffb35c;border-color:#7a5020}.t-neu{color:#c9a4ff;border-color:#5a3d8a}.t-rang{color:#ff7a6a;border-color:#7a2a20}
+.eg2{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:0 18px}
+.ench .er{display:grid;grid-template-columns:110px 1fr;gap:2px 12px;padding:7px 0;border-bottom:1px solid #2a2c48}.ench .er:last-child{border-bottom:0}
+.ench span{font:700 11px var(--txt);letter-spacing:.1em;text-transform:uppercase;color:var(--mut);padding-top:3px}
+.ench b{color:var(--ok);font-weight:600}.ench small{grid-column:2;color:var(--mut);font-size:12px}
+ol.prio{margin:0;padding:0;list-style:none;counter-reset:p}
+.prio li{counter-increment:p;display:grid;grid-template-columns:34px 1fr;gap:0 10px;padding:7px 0;border-bottom:1px solid #2a2c48}.prio li:last-child{border-bottom:0}
+.prio li::before{content:counter(p);grid-row:span 2;width:28px;height:28px;border-radius:50%;display:grid;place-items:center;font-family:CinzelD,var(--disp);font-weight:900;color:#2a1604;
+  background:radial-gradient(circle at 35% 30%,#fff3c4,#e9b54a 50%,#8a5414);box-shadow:0 0 0 1.5px #000}
+.prio b{color:var(--wy)}.prio small{color:var(--mut);font-size:13px}
+.cons{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px}
+.cons .box b{display:block;color:var(--ok);font-family:Corm,Georgia,serif;font-size:18px}.cons .box small{color:var(--mut);font-size:13px}
+.qu div{padding:5px 0;font-size:14px}.qu span{color:var(--mut)}.qu small{color:var(--mut);font-size:12px}
+@media (max-width:640px){.gear{grid-template-columns:minmax(0,1fr)}.mtabs a{min-width:0;flex:1;padding:7px 6px}}
+.kcm{display:flex;gap:6px;margin:-2px 0 6px 8px}.kc .kcm a{display:inline-block;padding:1px 9px;font:700 11px var(--txt);letter-spacing:.08em;color:var(--wy);border:1px solid #5a4526;border-radius:4px;background:#1a130b}
+.kc .kcm a:hover{border-color:#e0b450;background:#2a1d10}
