@@ -1,0 +1,147 @@
+/* WoW-Look für Forever Questlog – überschreibt das Grund-Design */
+@font-face{font-family:Cinzel;font-weight:700;font-display:swap;src:url(fonts/cinzel-latin-700-normal.woff2) format("woff2")}
+@font-face{font-family:Cinzel;font-weight:900;font-display:swap;src:url(fonts/cinzel-latin-900-normal.woff2) format("woff2")}
+@font-face{font-family:CinzelD;font-weight:900;font-display:swap;src:url(fonts/cinzel-decorative-latin-900-normal.woff2) format("woff2")}
+@font-face{font-family:Corm;font-weight:600;font-display:swap;src:url(fonts/cormorant-garamond-latin-600-normal.woff2) format("woff2")}
+@font-face{font-family:Corm;font-weight:600;font-style:italic;font-display:swap;src:url(fonts/cormorant-garamond-latin-600-italic.woff2) format("woff2")}
+@font-face{font-family:Corm;font-weight:700;font-display:swap;src:url(fonts/cormorant-garamond-latin-700-normal.woff2) format("woff2")}
+
+:root{--disp:Cinzel,Georgia,serif;--txt:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;--gold:#f0c75e;--gold2:#b7832a;--ok:#1eff00;--wy:#ffd100;
+  --bg:#0f0c09;--panel:#0c0e1f;--card:#0c0e1f;--line:#3b3226;--line2:#5a4526;--fg:#efe6d0;--mut:#b4a88e}
+body{background-color:#100c09;
+  background-image:
+   radial-gradient(ellipse 90% 50% at 50% 0%,rgba(255,190,90,.10),transparent 70%),
+   radial-gradient(ellipse 120% 90% at 50% 50%,transparent 50%,rgba(0,0,0,.7) 100%),
+   url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='600' height='600'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.012 .02' numOctaves='5' seed='7' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 .16  0 0 0 0 .13  0 0 0 0 .10  0 0 0 .9 -.22'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+  background-attachment:fixed}
+.note{display:none}
+
+/* Kopf */
+.top{background:linear-gradient(180deg,#2a1d10,#160f08 60%,#0f0a06);border-bottom:3px solid transparent;
+  border-image:linear-gradient(90deg,transparent,#b7832a 15%,#fff1c1 50%,#b7832a 85%,transparent) 1;box-shadow:0 6px 18px rgba(0,0,0,.7)}
+.logo .w{font-family:CinzelD,var(--disp);font-weight:900;filter:drop-shadow(0 2px 0 #2a1604) drop-shadow(0 4px 8px rgba(0,0,0,.8))}
+.logo .s{color:#e0c27a;font-family:var(--disp)}
+.stand b{font-family:var(--disp)}
+.bbtn,.btn.voll,.spec a[aria-current="true"]{background:linear-gradient(180deg,#b32317,#6e0d07 70%,#4a0704);color:var(--wy);border:1px solid #e0b450;
+  box-shadow:inset 0 1px 0 rgba(255,200,150,.35),0 0 0 1px #000,0 3px 6px rgba(0,0,0,.6);font-family:var(--disp);letter-spacing:.04em;text-shadow:0 1px 0 #000}
+.bbtn small{color:#ffe7a0}
+.btn{background:linear-gradient(180deg,#2e2416,#16100a);border:1px solid #9a7a3a;color:var(--wy);font-family:var(--disp);letter-spacing:.04em;box-shadow:0 0 0 1px #000}
+.btn:hover,.bbtn:hover{filter:brightness(1.15)}
+
+/* Navigation wie Reiter im Spiel */
+.nav{background:linear-gradient(180deg,#1a130b,#0e0a06);border-bottom:1px solid #5a4526}
+.nav .wrap{gap:6px;padding-block:6px}
+.nav a{font-family:var(--disp);font-size:13.5px;letter-spacing:.06em;color:#e0cfa6;border:1px solid #5a4526;border-radius:6px 6px 2px 2px;
+  background:linear-gradient(180deg,#3a2b18,#1c140b);padding:8px 14px;border-bottom-width:1px}
+.nav a:hover{color:var(--wy);border-color:#b7832a}
+.nav a[aria-current="page"]{color:var(--wy);border-color:#e0b450;background:linear-gradient(180deg,#6e1a10,#3a0c06);box-shadow:0 0 10px rgba(255,190,80,.25)}
+
+/* Klassenleiste */
+.cls{background:linear-gradient(180deg,#120d08,#0b0805);border-bottom:1px solid #3b2d18}
+.cl{font-family:var(--disp);font-size:11.5px;letter-spacing:.04em}
+.cl .ic{border-radius:50%;border:0;box-shadow:0 0 0 2px #000,0 0 0 4px #9a7a3a,0 3px 6px rgba(0,0,0,.7)}
+.cl .ic img{border-radius:50%}
+.cl[aria-current="true"] .ic{box-shadow:0 0 0 2px #000,0 0 0 4px var(--wy),0 0 16px color-mix(in srgb,var(--k) 70%,transparent)}
+
+/* Überschriften */
+h1,h2,h3{font-family:var(--disp)}
+.thead h1,.hero h1,.th1 h1{font-family:CinzelD,var(--disp);font-variant:normal;
+  background:linear-gradient(180deg,#fffbe6 0%,#ffe18a 28%,#e6a93a 55%,#a5661a 80%,#f3c968 100%);-webkit-background-clip:text;background-clip:text;color:transparent;
+  filter:drop-shadow(0 2px 0 #2a1604) drop-shadow(0 6px 10px rgba(0,0,0,.8))}
+.hero h1 em{background:none;-webkit-text-fill-color:inherit}
+.sh{border-bottom:0;position:relative;padding-bottom:12px}
+.sh::after{content:"";position:absolute;left:0;right:0;bottom:0;height:2px;background:linear-gradient(90deg,#b7832a,#fff1c1 30%,#b7832a 60%,transparent)}
+.sh h2{font-variant:normal;color:var(--wy);text-shadow:0 1px 2px #000;letter-spacing:.08em;text-transform:uppercase;font-size:19px}
+
+/* Tooltip-Kästen wie im Spiel */
+.box,.kc,.fact,.akt,.tw,.ord-tip{background:linear-gradient(180deg,rgba(14,16,40,.96),rgba(6,7,22,.96));border:2px solid #a9a9b4;border-radius:7px;
+  box-shadow:0 0 0 1px #000,inset 0 0 0 1px #2a2c48,0 6px 16px rgba(0,0,0,.7)}
+.kc{border-top:2px solid #a9a9b4}
+.kc .hd b{font-family:var(--disp)}
+.kc .hd .ic{border-radius:50%;border:0;box-shadow:0 0 0 2px #000,0 0 0 3px #9a7a3a}
+.kc .hd .ic img{border-radius:50%}
+.box h3{color:var(--wy);font-family:var(--disp)}
+.fact b{font-family:CinzelD,var(--disp);color:var(--wy)}
+.tip{background:linear-gradient(180deg,rgba(14,16,40,.97),rgba(6,7,22,.97));border:2px solid #a9a9b4;border-radius:7px;box-shadow:0 0 0 1px #000,inset 0 0 0 1px #2a2c48,0 10px 30px rgba(0,0,0,.7)}
+.tip b{color:var(--wy);font-family:var(--disp)}
+.tip .r{color:var(--ok)}.tip .r.max{color:var(--wy)}
+
+/* Talentrechner im Spielrahmen */
+.calc{position:relative;border:6px solid transparent;border-image:linear-gradient(180deg,#e8d39a,#8a7244 25%,#4a3a22 55%,#8a7244 85%,#d8c08a) 1;
+  border-radius:0;background:#0d0b09;box-shadow:0 0 0 1px #000,0 18px 50px rgba(0,0,0,.7)}
+.tool{background:linear-gradient(180deg,#2a1f12,#17110a);border-bottom:1px solid #5a4526}
+.step{border-color:#9a7a3a;background:#000}.step output{font-family:var(--disp);color:var(--wy)}
+.play{border-color:#9a7a3a;color:var(--wy);font-family:var(--disp)}
+.pts b{color:var(--ok);background:#000;border-color:#9a7a3a;font-family:var(--disp)}
+.tr{background:radial-gradient(110% 65% at 50% 38%,color-mix(in srgb,var(--t) 24%,transparent),transparent 72%),linear-gradient(180deg,#1d1914,#0f0c09);border-right:2px solid #3b3226}
+.th{border-bottom:1px solid rgba(240,199,94,.25)}
+.th h3{color:var(--wy);text-transform:uppercase;letter-spacing:.1em;font-size:16px}
+.th .em{border:0;box-shadow:0 0 0 2px #000,0 0 0 4px #b8954a}
+.tl{border:0;border-radius:5px;box-shadow:0 0 0 1px #000,0 0 0 3px #3b3226,0 0 0 4px #000}
+.tl img{border-radius:4px}
+.tl.off{filter:grayscale(1) brightness(.5)}
+.tl.part{box-shadow:0 0 0 1px #000,0 0 0 3px #19c40b,0 0 0 4px #000,0 0 10px rgba(30,255,0,.35)}
+.tl.max{box-shadow:0 0 0 1px #000,0 0 0 3px #e6b800,0 0 0 4px #000,0 0 12px rgba(255,209,0,.45)}
+.tl .rk{background:#000;border:1px solid #8a7a50;font:700 11px Arial,sans-serif;color:#9d9d9d}
+.tl.part .rk{color:var(--ok);border-color:#8a7a50}.tl.max .rk{color:var(--wy);border-color:#8a7a50}
+.tl .nr{background:radial-gradient(circle at 35% 30%,#fff3c4,#e9b54a 50%,#8a5414);box-shadow:0 0 0 1.5px #000;font-family:var(--disp);font-weight:900}
+.foot{background:linear-gradient(180deg,#2a1f12,#17110a);border-top:1px solid #5a4526}.foot b{color:var(--wy)}
+.leg{border-top:1px solid #5a4526}
+
+/* Reihenfolge als Questlog auf Pergament */
+.ord{color:#2a1709;border:0;border-radius:6px;
+  background:radial-gradient(ellipse 75% 70% at 50% 45%,transparent 55%,rgba(120,70,20,.45) 100%),
+   url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='300'><filter id='p'><feTurbulence type='fractalNoise' baseFrequency='.035' numOctaves='5' seed='11' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 .55  0 0 0 0 .38  0 0 0 0 .18  0 0 0 .9 -.3'/></filter><rect width='100%' height='100%' filter='url(%23p)'/></svg>"),
+   linear-gradient(180deg,#f1e1b8,#e5cf9c 60%,#dcc18a);box-shadow:0 0 0 1px #5a3d12,0 8px 20px rgba(0,0,0,.7)}
+.orow{border-bottom:1px solid rgba(110,70,25,.3)}
+.orow .lv{font-family:var(--disp);font-weight:900;color:#7a2c10;letter-spacing:.06em}
+.orow .nm{color:#1d0f04;font-family:Corm,Georgia,serif;font-size:18px}
+.orow .nm small{color:#6b4a24;font-family:var(--txt)}
+.orow .tx{color:#3a2410;font-size:14.5px}
+.orow .pk{color:#1a7a0a}
+.orow .mi{border:0;box-shadow:0 0 0 1px #000,0 0 0 2px #7a5a2a}
+.orow.done{background:rgba(30,140,0,.08)}
+.orow.now{background:rgba(255,190,60,.28);box-shadow:inset 4px 0 0 #a0400a}
+.orow.later{opacity:.6}
+
+/* Handbuch-Banner */
+.band{border:2px solid #e0b450;background:linear-gradient(120deg,rgba(110,26,16,.85),rgba(20,12,8,.95) 65%);box-shadow:0 0 0 1px #000,0 10px 26px rgba(0,0,0,.7)}
+.band h2{color:var(--wy);font-family:CinzelD,var(--disp);font-variant:normal}
+.ad{border-color:#9a7a3a;color:#e0cfa6}
+
+/* Geheime Bücher */
+.bk-top{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px;margin-bottom:16px}
+.loot .it{display:flex;align-items:center;gap:12px;margin:8px 0}
+.loot img{width:40px;height:40px;border-radius:4px;box-shadow:0 0 0 1px #000,0 0 0 2.5px #1eff00,0 0 0 3.5px #000}
+.loot .b img{box-shadow:0 0 0 1px #000,0 0 0 2.5px #0070dd,0 0 0 3.5px #000}
+.loot .n{font-family:Corm,Georgia,serif;font-weight:700;font-size:18px;color:#1eff00;line-height:1}.loot .b .n{color:#3a9bff}
+.loot .q{font-size:13px;color:var(--mut)}
+.bgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+.bcard{padding:12px;position:relative}
+.bcard .hd{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+.seal{width:32px;height:32px;flex:none;border-radius:50%;display:grid;place-items:center;font-family:CinzelD,var(--disp);font-weight:900;font-size:15px;color:#f6d9a0;
+  background:radial-gradient(circle at 38% 32%,#d0473a,#8e1a12 55%,#4a0905);box-shadow:0 0 0 2px #2a0603,0 2px 4px rgba(0,0,0,.8)}
+.bcard .z{font-family:var(--disp);font-weight:900;font-size:15px;letter-spacing:.1em;text-transform:uppercase;color:var(--wy)}
+.bmap{position:relative;aspect-ratio:16/9;border-radius:3px;background-repeat:no-repeat;background-color:#3a2a14;
+  box-shadow:0 0 0 1px #000,0 0 0 4px #5a4526,0 0 0 5px #000}
+.bmap::after{content:"";position:absolute;inset:0;box-shadow:inset 0 0 22px rgba(30,15,0,.55);border-radius:3px}
+.pin{position:absolute;width:30px;height:30px;transform:translate(-50%,-50%);border-radius:50%;z-index:2;
+  background:radial-gradient(circle,transparent 52%,rgba(255,215,90,.95) 56%,rgba(255,170,30,.9) 64%,transparent 72%);
+  filter:drop-shadow(0 0 6px rgba(255,200,50,.95)) drop-shadow(0 0 2px #000);animation:glow 2s ease-in-out infinite}
+@keyframes glow{50%{filter:drop-shadow(0 0 12px rgba(255,220,80,1)) drop-shadow(0 0 2px #000)}}
+@media (prefers-reduced-motion:reduce){.pin{animation:none}}
+.coord{position:absolute;right:6px;bottom:6px;z-index:3;padding:3px 8px;border-radius:5px;background:rgba(6,7,22,.95);border:1.5px solid #a9a9b4;
+  font-family:var(--disp);font-weight:900;font-size:15px;color:#fff;font-variant-numeric:tabular-nums}
+.bt{margin-top:10px;font-family:Corm,Georgia,serif;font-weight:700;font-style:italic;font-size:18px;color:var(--wy);line-height:1.1}
+.bo{margin-top:4px;font-size:14.5px;color:#fff}
+.chk{display:flex;align-items:center;gap:8px;margin-top:10px;font-family:var(--disp);font-size:12px;letter-spacing:.1em;color:#d8cba8;cursor:pointer;user-select:none}
+.chk input{appearance:none;width:20px;height:20px;border-radius:3px;background:#000;box-shadow:0 0 0 1px #000,0 0 0 2.5px #9a7a3a,0 0 0 3.5px #000;cursor:pointer;display:grid;place-items:center;margin:0}
+.chk input:checked::after{content:"✓";color:var(--wy);font-weight:900;font-size:16px}
+.prog{display:flex;align-items:center;gap:12px;margin:0 0 14px}
+.bar{flex:1;height:16px;border-radius:8px;background:#1a1208;box-shadow:inset 0 0 0 1px #000,0 0 0 1px #9a7a3a;overflow:hidden}
+.bar i{display:block;height:100%;width:0;background:linear-gradient(180deg,#a36bff,#5a1fb0);transition:width .3s}
+.prog b{font-family:var(--disp);color:var(--wy);white-space:nowrap}
+.more{margin-top:18px}
+footer{background:#0a0705;border-top:2px solid #3b2d18}
+.orow{grid-template-columns:104px 38px minmax(0,230px) 46px minmax(0,1fr)}
+@media (max-width:700px){.orow{grid-template-columns:38px minmax(0,1fr) 40px}}
