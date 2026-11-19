@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nebenprojekte.github.io/foreverquestlog/sitemap.xml
-Sitemap: https://leichterklaert.com/sitemap.xml
+Sitemap: https://foreverquestlog.de/sitemap.xml
